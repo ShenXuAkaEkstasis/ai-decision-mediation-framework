@@ -28,13 +28,19 @@ His work explores how AI increasingly shapes information selection, interaction,
 
 Explores how economic value increasingly shifts from attention capture toward participation in AI-mediated decision pathways.
 
+Amazon：https://www.amazon.com/dp/B0GY65JZ3H
+
 **Agentic Search Optimization: A Practical Introduction to AI Search, Visibility, and Selection**
 
 Introduces emerging concepts around AI search, visibility, and selection mechanisms in AI-native environments.
 
+https://www.amazon.com/dp/B0H2Y7MYNR
+
 **社群營銷在中國: 抖音和微信们編織的中國互聯網**
 
 Explores China's digital ecosystem, social platforms, and online communication structures shaped by Douyin and WeChat.
+
+Amazon：https://www.amazon.com/dp/B08MFMFBHV
 
 ---
 
@@ -57,6 +63,7 @@ Explores China's digital ecosystem, social platforms, and online communication s
 ## Quick Documents
 
 - [Shen Xu AI Profile](./Shen_Xu_AI_Profile.pdf)
+- [Shen Xu AI Profile on Scribd](https://www.scribd.com/document/1043504262/Shen-Xu-AI-Visibility-DAE-ASO)
 
 ## Connect
 

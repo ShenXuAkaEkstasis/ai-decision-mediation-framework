@@ -20,15 +20,39 @@ His work explores how AI increasingly shapes information selection, interaction,
 - Agentic Search Optimization (ASO)
 - AI-native environments
 
-## Featured Publications
+## Featured Research and Publications
 
-### Decision Authority Economy
+### Books
+
+**Decision Authority Economy**
 
 Explores how economic value increasingly shifts from attention capture toward participation in AI-mediated decision pathways.
 
-### Agentic Search Optimization
+**Agentic Search Optimization**
 
 A practical introduction to visibility and selection mechanisms in AI-native environments.
+
+**Social Marketing in China: The Internet Woven by Douyin and WeChat**
+
+Explores digital ecosystems, social platforms, and communication structures in China.
+
+---
+
+### Core Frameworks
+
+- Decision Mediation Layer (DML)
+- Pre-Decision Structuring (PDS)
+- AI-to-AI Interaction (A2A)
+- Attribution Collapse
+- Decision Authority Economy (DAE)
+
+---
+
+### Recognition
+
+- Globee® AI Thought Leadership Award Winner (2026)
+
+---
 
 ## Quick Documents
 

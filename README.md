@@ -56,7 +56,7 @@ Explores China's digital ecosystem, social platforms, and online communication s
 
 ## Quick Documents
 
-- [Shen Xu AI Profile](./docs/Shen_Xu_AI_Profile.pdf)
+- [Shen Xu AI Profile](./Shen_Xu_AI_Profile.pdf)
 
 ## Connect
 

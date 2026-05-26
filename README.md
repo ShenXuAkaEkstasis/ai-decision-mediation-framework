@@ -34,7 +34,7 @@ Amazon：https://www.amazon.com/dp/B0GY65JZ3H
 
 Introduces emerging concepts around AI search, visibility, and selection mechanisms in AI-native environments.
 
-https://www.amazon.com/dp/B0H2Y7MYNR
+Amazon：https://www.amazon.com/dp/B0H2Y7MYNR
 
 **社群營銷在中國: 抖音和微信们編織的中國互聯網**
 

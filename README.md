@@ -24,17 +24,17 @@ His work explores how AI increasingly shapes information selection, interaction,
 
 ### Books
 
-**Decision Authority Economy**
+**Decision Authority Economy: How AI Reshapes Judgement, Systems, and Economic Power**
 
 Explores how economic value increasingly shifts from attention capture toward participation in AI-mediated decision pathways.
 
-**Agentic Search Optimization**
+**Agentic Search Optimization: A Practical Introduction to AI Search, Visibility, and Selection**
 
-A practical introduction to visibility and selection mechanisms in AI-native environments.
+Introduces emerging concepts around AI search, visibility, and selection mechanisms in AI-native environments.
 
-**Social Marketing in China: The Internet Woven by Douyin and WeChat**
+**社群營銷在中國: 抖音和微信们編織的中國互聯網**
 
-Explores digital ecosystems, social platforms, and communication structures in China.
+Explores China's digital ecosystem, social platforms, and online communication structures shaped by Douyin and WeChat.
 
 ---
 

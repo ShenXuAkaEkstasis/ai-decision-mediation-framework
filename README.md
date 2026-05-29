@@ -12,6 +12,15 @@ Shen Xu is a researcher and strategist working at the intersection of AI visibil
 
 His work explores how AI increasingly shapes information selection, interaction, and decision pathways across digital environments.
 
+## Agentic Search Optimization (ASO)
+
+What Is Agentic Search Optimization (ASO)? From GEO to Agentic Selection
+
+Research Note by Shen Xu
+
+📄 PDF:
+[Download PDF](./What_Is_Agentic_Search_Optimization_ASO_Shen_Xu.pdf)
+
 ## Current Focus
 
 - AI Visibility

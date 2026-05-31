@@ -1,16 +1,26 @@
 # Shen Xu
 
-Researcher | AI Visibility | AI-Mediated Systems
+**Researcher | AI Visibility | AI-Mediated Systems**
 
-Author of *Decision Authority Economy*
-
+Author of *Decision Authority Economy*  
 Author of *Agentic Search Optimization*
+
+**Profiles & Research**
+
+- LinkedIn: https://www.linkedin.com/in/shanehsu/
+- Google Scholar: https://scholar.google.com/citations?user=h4IUafgAAAAJ
+- SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6535999
+- ORCID: https://orcid.org/0009-0007-6471-2620
+
+
+---
 
 ## About
 
 Shen Xu is a researcher and strategist working at the intersection of AI visibility, AI-mediated systems, and decision structures.
 
 His work explores how AI increasingly shapes information selection, interaction, and decision pathways across digital environments.
+
 
 ## Agentic Search Optimization (ASO)
 

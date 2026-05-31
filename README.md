@@ -96,5 +96,4 @@ Amazon: https://www.amazon.com/dp/B08MFMFBHV
 ## Connect
 
 * GitHub: https://github.com/ShenXuAkaEkstasis
-* LinkedIn: https://www.linkedin.com/in/shanehsu/
 * X: https://x.com/shanehsu1013

@@ -14,6 +14,27 @@ Author of *Agentic Search Optimization*
 
 ---
 
+## Media, Talks & Community Activities
+
+Before focusing on AI Visibility and AI-mediated systems research, Shen Xu was active in China's startup, technology, and digital marketing communities.
+
+Selected public activities include:
+
+* **Alibaba Cloud Developer Community** — Shared startup and digital marketing experiences as **EK (Ekstasis)** within the Alibaba Cloud developer community.
+  https://developer.aliyun.com/article/298120
+
+* **Yicai Foundation** — Invited to share entrepreneurial and community-building experiences as **EK** in a public innovation and social impact program.
+  https://www.yicaifoundation.org.cn/front/article/180
+
+* **Shanghai Science and Technology Commission Program** — Tuna Information Technology (Shanghai) was selected for government-supported innovation and entrepreneurship funding programs for small and medium-sized technology enterprises.
+  https://stcsm.sh.gov.cn/cmsres/65/654589acf94d463b883baf9d2a8ebf1a/6bef44783d9fcdbd518bb08aab532032.pdf
+
+* **Technology Media Coverage** — Startup and community activities were covered by Chinese technology media including Sohu Technology and NetEase Technology.
+  https://www.sohu.com/a/108062977_355020
+  https://www.163.com/tech/article/6QTM0CPB000938EN.html
+
+---
+
 ## About
 
 Shen Xu is an independent researcher and digital marketing strategist working at the intersection of AI visibility, AI-mediated systems, and decision structures.

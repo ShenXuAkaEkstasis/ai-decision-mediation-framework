@@ -5,6 +5,9 @@
 
 Author of **Decision Authority Economy**, **Agentic Search Optimization**, and **AI Visibility Marketing**
 
+**Research Interests**
+
+AI Visibility · AI-mediated Systems · Agentic Search Optimization · Decision Authority Economy · AI-native Environments
 ---
 
 # Profiles & Research

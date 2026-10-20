@@ -1,4 +1,3 @@
-````md
 # Shen Xu
 
 **Independent Researcher | AI Visibility | AI-Mediated Systems**
@@ -159,11 +158,23 @@ https://www.sohu.com/a/108062977_355020
 **NetEase Technology**
 
 https://www.163.com/tech/article/6QTM0CPB000938EN.html
-````
-```md
 ---
 
 # Publications
+
+## Technical community articles
+
+### Decision Authority in AI Agents: Why Context Matters More Than Automation
+
+**IBM TechXchange Community — Global AI & Data Science | October 13, 2026**
+
+[Read the original article](https://community.ibm.com/community/user/blogs/shen-xu/2026/10/13/decision-authority-in-ai-agents) · [Related research architecture](https://github.com/ShenXuAkaEkstasis/a2a-market-architecture/blob/main/decision-authority.md)
+
+This article distinguishes rule-based automation from the discretionary interpretation of competing objectives. It explores how system constraints, user permissions, task rules, memory and current context jointly inform a permissible agent decision. Judgment does not by itself confer authority to act, and memory is evidence rather than an authorization source. The framework also applies to enterprise procurement and agent-mediated commerce.
+
+This is a self-authored IBM community publication, not peer-reviewed validation or IBM corporate endorsement.
+
+---
 
 ## Books
 
@@ -292,4 +303,3 @@ By combining practical industry experience with conceptual research, I aim to de
 ---
 
 > *Researching how AI transforms visibility, decision-making, and economic coordination across AI-native environments.*
-```

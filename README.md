@@ -270,6 +270,16 @@ https://globeeawards.com/2026-winners-artificial-intelligence-awards/
 
 ---
 
+# Professional Recognition & Judging
+
+## 2027 IMPACT Awards — Judge
+
+Selected to serve as a judge for the **2027 IMPACT Awards**, evaluating submissions in leadership and enterprise AI technology categories, including **Leaders of the Year** and **Enterprise AI Technology Leader of the Year**.
+
+This is an award-program judging appointment, separate from research publication or peer-review activity.
+
+---
+
 # Research Vision
 
 Artificial intelligence is becoming an increasingly active participant in how information is discovered, evaluated, recommended, and acted upon.

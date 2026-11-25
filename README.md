@@ -178,6 +178,14 @@ This is a self-authored IBM community publication, not peer-reviewed validation 
 
 ## Books
 
+### From Search to Agentic Commerce
+
+Eliva Press, 2026 · Paperback · ISBN 9789999353236.
+
+[Publisher](https://www.elivapress.com/en/book/book-7580878807) · [Readings (Australia) — bookseller listing](https://www.readings.com.au/product/9789999353236/from-search-to-agentic-commerce--shen-xu--2026--9789999353236)
+
+---
+
 ### Decision Authority Economy
 
 **Decision Authority Economy: How AI Reshapes Judgement, Systems, and Economic Power**

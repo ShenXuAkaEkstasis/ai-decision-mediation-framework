@@ -121,7 +121,11 @@ A research note introducing **Agentic Search Optimization (ASO)** and examining 
 
 # Media, Talks & Community Activities
 
-These activities represent my work before transitioning toward independent AI research.
+## Independent editorial coverage
+
+- **November 26, 2026 | South China Morning Post (SCMP)** — [As US and China battle for AI dominance, small fry figure out what works](https://www.scmp.com/news/us/economy-trade-business/article/3375810/us-and-china-battle-ai-dominance-small-fry-figure-out-what-works). In Focus feature by Mark Magnier quoting Shen Xu as an independent AI strategist on US and Chinese AI models, platform integration, information-source differences and operating costs. Independent editorial coverage; not a validation of his research frameworks.
+
+The following historical activities represent my work before transitioning toward independent AI research.
 
 ## Alibaba Cloud Developer Community
 
